@@ -1,1 +1,2 @@
-# ra-store-class
+# ra-store-class [![Build status](https://ci.appveyor.com/api/projects/status/vajolenh41w3c8bv?svg=true)](https://ci.appveyor.com/project/barsich/ra-store-class)
+[GithubPages](https://barsich.github.io/ra-store-class/)
